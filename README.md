@@ -1,1 +1,1 @@
-My Playground - 1
+My Playground
