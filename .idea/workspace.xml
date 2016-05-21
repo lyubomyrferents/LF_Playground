@@ -432,7 +432,14 @@
       <option name="project" value="LOCAL" />
       <updated>1463857337930</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="14th commit">
+      <created>1463858241498</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1463858241498</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -491,7 +498,8 @@
     <MESSAGE value="11th commit" />
     <MESSAGE value="12th commit" />
     <MESSAGE value="13th commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="13th commit" />
+    <MESSAGE value="14th commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="14th commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
